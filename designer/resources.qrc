@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>logo.svg</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/48x48/torrentbro.png</file>
+  </qresource>
+</RCC>
