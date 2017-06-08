@@ -24,3 +24,9 @@ Depends: ${python3:Depends},
          ${misc:Depends}
 Description: Lightweight cross-platform torrent browser
  TorrentBro is your bro for searching torrents.
+ .
+ TorrentBro helps you to search and browse torrents from different torrent
+ search engines. Currently it supports ThePirateBay.
+ .
+ You can see information of each torrent including the file list. You can
+ the open the magnet link in a torrent client and download the file.
